@@ -1,2 +1,4 @@
 .tar.gz filter=lfs diff=lfs merge=lfs -text
 *.tar.gz filter=lfs diff=lfs merge=lfs -text
+AMS.zip filter=lfs diff=lfs merge=lfs -text
+jdk-8u231-linux-i586.tar.gz filter=lfs diff=lfs merge=lfs -text
